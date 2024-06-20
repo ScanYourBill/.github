@@ -17,8 +17,8 @@ The project addresses the widespread challenge of financial disorganization, whi
 | M006D4KY1654      | Muhammad Rizqi Azhari          | Machine Learning    | [LinkedIn](https://www.linkedin.com/in/muhammad-rizqi-azhari/) | [@rizqimra](https://github.com/rizqimra) | Active |
 | C498D4KY1017      | Roni Eka Setiawan     | Cloud Computing    | [LinkedIn](https://www.linkedin.com/in/roni-eka-setiawan/) | [@roniekas](https://github.com/roniekas) | Active |
 | C006D4KY1056      | Fauzan Akbar Abhirama             | Cloud Computing | [LinkedIn](https://www.linkedin.com/in/fauzanakbara/) | [@fauzanakbar2503](https://github.com/fauzanakbar2503) | Active |
-| A010D4KY3461       | Muhammad Abizar Rachmanda              | Mobile Development | [LinkedIn](https://www.linkedin.com/in/muhammad-abizar-rachmanda/) |  | Active |
-| A010D4KY3472       | Trias Ahmad Fairuz | Mobile Development   | [LinkedIn](https://www.linkedin.com/in/trias-ahmad-fairuz-a9a137219/) |  | Active |
+| A010D4KY3461       | Muhammad Abizar Rachmanda              | Mobile Development | [LinkedIn](https://www.linkedin.com/in/muhammad-abizar-rachmanda/) | [@garbitz](https://github.com/garbitz) | Active |
+| A010D4KY3472       | Trias Ahmad Fairuz | Mobile Development   | [LinkedIn](https://www.linkedin.com/in/trias-ahmad-fairuz-a9a137219/) | [@triasaf](https://github.com/triasaf) | Active |
 
 </div>
 
