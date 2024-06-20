@@ -12,13 +12,13 @@ The project addresses the widespread challenge of financial disorganization, whi
   
 | Bangkit ID       |           Name            |   Learning Path    | LinkedIn Profile | Github | Status |
 |:----------------:|---------------------------|:------------------:|:-----------------------------------------:|-------------------------------------------------------------------|:---------------------------------|
-| M010D4KX2332      | Eldira Lahanny Permata Sherman  | Machine Learning   | [LinkedIn](https://www.linkedin.com/in/eldira-lahanny-permata-sherman/) | [@eldiralps](https://github.com/eldiralps) | Active |
+| M010D4KX2332      | Eldira Lahanny Permata Sherman  | Machine Learning   | [LinkedIn](https://www.linkedin.com/in/eldira-lahanny-permata-sherman-659a75192/) | [@eldiralps](https://github.com/eldiralps) | Active |
 | M006D4KY2801      | Muhammad Jibril Averroes   | Machine Learning   | [LinkedIn](https://www.linkedin.com/in/muhammad-jibril-averroes/) | [@Avers03](https://github.com/Avers03) | Active |
-| M006D4KY1654      | Muhammad Rizqi Azhari          | Machine Learning    | [LinkedIn](https://www.linkedin.com/in/dhiareligio/) | [@rizqimra](https://github.com/rizqimra) | Active |
-| C498D4KY1017      | Roni Eka Setiawan     | Cloud Computing    | [LinkedIn](https://www.linkedin.com/in/zuhud-ulin-nuha/) | [@roniekas](https://github.com/roniekas) | Active |
-| C006D4KY1056      | Fauzan Akbar Abhirama             | Cloud Computing | [LinkedIn](https://www.linkedin.com/in/mirfanzaidann/) | [@fauzanakbar2503](https://github.com/fauzanakbar2503) | Active |
-| A010D4KY3461       | Muhammad Abizar Rachmanda              | Mobile Development | [LinkedIn](https://www.linkedin.com/in/galih-rakasiwi-25a5842a4/) |  | Active |
-| A010D4KY3472       | Trias Ahmad Fairuz | Mobile Development   | [LinkedIn](https://www.linkedin.com/in/rezkyrevansyah/) |  | Active |
+| M006D4KY1654      | Muhammad Rizqi Azhari          | Machine Learning    | [LinkedIn](https://www.linkedin.com/in/muhammad-rizqi-azhari/) | [@rizqimra](https://github.com/rizqimra) | Active |
+| C498D4KY1017      | Roni Eka Setiawan     | Cloud Computing    | [LinkedIn](https://www.linkedin.com/in/roni-eka-setiawan/) | [@roniekas](https://github.com/roniekas) | Active |
+| C006D4KY1056      | Fauzan Akbar Abhirama             | Cloud Computing | [LinkedIn](https://www.linkedin.com/in/fauzanakbara/) | [@fauzanakbar2503](https://github.com/fauzanakbar2503) | Active |
+| A010D4KY3461       | Muhammad Abizar Rachmanda              | Mobile Development | [LinkedIn](https://www.linkedin.com/in/muhammad-abizar-rachmanda/) |  | Active |
+| A010D4KY3472       | Trias Ahmad Fairuz | Mobile Development   | [LinkedIn](https://www.linkedin.com/in/trias-ahmad-fairuz-a9a137219/) |  | Active |
 
 </div>
 
