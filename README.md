@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Dapur-Nusantara-Bangkit-2024-Batch-2/.github/blob/main/profile/assets/logodarnus%201.png" alt="Logo NutriKita" style="width: 40%;">
+  <img src="https://github.com/ScanYourBill/.github/assets/89185308/54c896bc-cb99-4ed1-9331-06092ac66b87" alt="Logo NutriKita" style="width: 40%;">
   <p>Scan your Bill</p>
 </div>
 
